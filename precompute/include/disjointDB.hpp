@@ -29,6 +29,8 @@ private:
     std::vector<uint32_t> pattern_db_2;
     std::vector<uint32_t> pattern_db_3;
 
+    // 32-bit + 8-bit encoded (28 pattern | 4 pad | 8 heuristic)
+    // 32-bit + 8 bit encoded (32 pattern | 0 pad | 8 heuristic)
     std::vector<BigPatternEntry> pattern_db_7;
     std::vector<BigPatternEntry> pattern_db_8;
 
