@@ -4,7 +4,7 @@ Availible heuristics:
 
 - Manhattan Distance ✅
 - Disjoint Pattern Database (5,5,5) ✅
-- Disjoint Pattern Database (7,8) ❌ (W I P)
+- Disjoint Pattern Database (7,8) ❌ (When RAM gets cheaper....)
 
 Interaction methods:
 
